@@ -15,7 +15,7 @@ namespace Pekarniya
         {
             /// Запасы ингредиентов
 
-            static var supplies = new Dictionary<string, int>
+            static var supplies Ф
             {
 
                 {"Мука", 500},
